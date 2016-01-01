@@ -1,0 +1,15 @@
+{
+  "name": "ts-micro",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rex.schrader@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "moment": "^2.10.6"
+  }
+}
